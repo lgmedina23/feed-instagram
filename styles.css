@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: darkgrey;
+    padding: 0px;
+}
+header {
+    background-color: white;
+    padding: 0px;
+    margin: 0%;
+}
+header h1 {
+    width: 600px;
+    margin: auto;
+    padding: 5px;
+    
+}
+main {
+    padding: 20px;
+}
+article {
+    margin: auto;
+    background-color: white;
+    width:613px;
+    border: 10px;
+    margin-top: 50px;
+}
+.article-header {
+    display: flex;
+    align-items: center;
+    padding: 6px;
+    justify-content: space-between;
+}
+.article-header-title {
+    font-size: 16px;
+    font-weight: bold;
+}
+.article-header-date {
+    font-size: 13px;
+    color: grey;
+}
+.article-footer {
+    margin: 0px;
+    padding: 0px;
+}
+.article-footer p {
+    padding: 20px;
+    margin: 0px;
+}
